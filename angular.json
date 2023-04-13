@@ -151,8 +151,8 @@
             "prerender": false,
             "ssr": false,
             "browserTarget": "app:build:production",
-            "firebaseProject": "coco-6c8a7",
-            "firebaseHostingSite": "coco-6c8a7"
+            "firebaseProject": "slm-planning-poker",
+            "firebaseHostingSite": "slm-planning-poker"
           }
         }
       }

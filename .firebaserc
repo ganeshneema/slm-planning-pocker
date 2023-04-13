@@ -1,14 +1,14 @@
 {
   "targets": {
-    "coco-6c8a7": {
+    "slm-planning-poker": {
       "hosting": {
         "app": [
-          "coco-6c8a7"
+          "slm-planning-poker"
         ]
       }
     }
   },
   "projects": {
-    "default": "coco-6c8a7"
+    "default": "slm-planning-poker"
   }
 }
